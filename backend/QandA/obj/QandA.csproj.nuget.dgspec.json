@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\ReactLivro\\backend\\QandA\\QandA.csproj": {}
+    "D:\\Projetos\\ReactLivro\\QandA\\backend\\QandA\\QandA.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\ReactLivro\\backend\\QandA\\QandA.csproj": {
+    "D:\\Projetos\\ReactLivro\\QandA\\backend\\QandA\\QandA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ReactLivro\\backend\\QandA\\QandA.csproj",
+        "projectUniqueName": "D:\\Projetos\\ReactLivro\\QandA\\backend\\QandA\\QandA.csproj",
         "projectName": "QandA",
-        "projectPath": "D:\\Projetos\\ReactLivro\\backend\\QandA\\QandA.csproj",
+        "projectPath": "D:\\Projetos\\ReactLivro\\QandA\\backend\\QandA\\QandA.csproj",
         "packagesPath": "C:\\Users\\Edutecni-Note\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ReactLivro\\backend\\QandA\\obj\\",
+        "outputPath": "D:\\Projetos\\ReactLivro\\QandA\\backend\\QandA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
