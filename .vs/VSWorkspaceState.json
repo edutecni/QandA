@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\backend",
+    "\\backend\\QandA",
+    "\\frontend"
   ],
+  "SelectedNode": "\\frontend",
   "PreviewInSolutionExplorer": false
 }
